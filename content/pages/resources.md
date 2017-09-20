@@ -42,9 +42,13 @@ Date: 2017-01-04 07:00
 
 [https://github.com/karan/Projects](https://github.com/karan/Projects)
 
+### Beginner's Warmups
+[http://codingbat.com/python](http://codingbat.com/python)
+
 ## 2. Intermediate 
 [http://pymotw.com/2/](http://pymotw.com/2/)  
 [http://www.reddit.com/r/Python/comments/226ahl/some_links_about_python_oop](http://www.reddit.com/r/Python/comments/226ahl/some_links_about_python_oop)
+[https://www.dataquest.io](https://www.dataquest.io)
 
 **Books:**  
 - [Learn Python the hard way](http://learnpythonthehardway.org)
